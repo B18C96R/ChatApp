@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kadai03/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/kadai03/static/js/main.70ec0e0e.chunk.js",
+    "main.js.map": "/kadai03/static/js/main.70ec0e0e.chunk.js.map",
+    "runtime-main.js": "/kadai03/static/js/runtime-main.6d3de628.js",
+    "runtime-main.js.map": "/kadai03/static/js/runtime-main.6d3de628.js.map",
+    "static/js/2.977f7ee5.chunk.js": "/kadai03/static/js/2.977f7ee5.chunk.js",
+    "static/js/2.977f7ee5.chunk.js.map": "/kadai03/static/js/2.977f7ee5.chunk.js.map",
+    "index.html": "/kadai03/index.html",
+    "precache-manifest.61b26c61c681004ea6e5a8f8579b7eeb.js": "/kadai03/precache-manifest.61b26c61c681004ea6e5a8f8579b7eeb.js",
+    "service-worker.js": "/kadai03/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/kadai03/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.977f7ee5.chunk.js.LICENSE.txt": "/kadai03/static/js/2.977f7ee5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d3de628.js",
+    "static/js/2.977f7ee5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.70ec0e0e.chunk.js"
+  ]
+}
